@@ -7,4 +7,4 @@
 matplotlib
 pandas
 numpy
-
+# titanicsvm.ipynb not complete
