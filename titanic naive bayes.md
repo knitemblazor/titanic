@@ -99,7 +99,7 @@ def calcd(n):
     return red
 ```
 
-#### CLACULATED TEST LABELS
+#### CALCULATED TEST LABELS
 
 
 ```python
